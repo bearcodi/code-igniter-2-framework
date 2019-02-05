@@ -1,0 +1,14 @@
+{
+    "name": "bearcodi/codeigniter-2-framework",
+    "description": "CodeIgniter 2.x framwork composer package",
+    "type": "framework, codeigniter2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Babič",
+            "email": "mark@bearcodi.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

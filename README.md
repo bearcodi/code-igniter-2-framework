@@ -1,4 +1,4 @@
-# Code Igniter 2.x Framework Composer package
+# CodeIgniter 2.x Framework Composer package
 
 _Open Source PHP Framework (originally from EllisLab)_
 
@@ -6,7 +6,7 @@ _Open Source PHP Framework (originally from EllisLab)_
 
 
 
-Composer package for modernizing a Code Igniter 2 application, used with sample `code-igniter-2-base-project` you can easily adjust your existing Code Igniter app to be a bit more extensible and leverage composer for fun stuff :)
+Composer package for modernizing a CodeIgniter 2.x application, used with sample `codeigniter-2-base-project` you can easily adjust your existing CodeIgniter app to be a bit more extensible and leverage composer for fun stuff :)
 
 ## Documentation
 
